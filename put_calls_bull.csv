@@ -1,2 +1,2 @@
-Date,Type,Symbol,Strike,Expiry,Quantity
-2025-03-11,Calls bought,ALB,55P,2026-06-19,500
+time,symbol,strike,quantity,expiry
+2025-03-11,ALB,55P,500,2026-06-19
